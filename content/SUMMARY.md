@@ -13,3 +13,6 @@
 * [Send telemetry data using Raspberry Pi device](send-telemetry-data-using-raspberry-pi-device.md)
 * [Save telemetry data to Azure Blob storage](save-telemetry-data-to-azure-blob-storage.md)
 * [Visualise data in Power BI](visualise-data-in-power-bi.md)
+* [Sensors for IoT Applications](sensors-for-iot-applications/README.md)
+  * [Six ways to sense current and how to decide which to use](sensors-for-iot-applications/six-ways-to-sense-current-and-how-to-decide-which-to-use.md)
+* [Page 1](page-1.md)
